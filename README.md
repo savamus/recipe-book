@@ -1,3 +1,5 @@
 # Recipe Book
 
-- Borscht (main version)
+## Recipes
+
+- Borscht
